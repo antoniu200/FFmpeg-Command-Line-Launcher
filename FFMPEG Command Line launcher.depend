@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1586556688 source:c:\users\alexa\documents\proiecte\ffmpeg command line launcher\main.cpp
+	<iostream>
+	<windows.h>
+	<vector>
+	<fstream>
+	<string>
+
+1631268501 source:d:\users\alexa\documents\proiecte\ffmpeg command line launcher\main.cpp
+	<iostream>
+	<windows.h>
+	<vector>
+	<fstream>
+	<string>
+
